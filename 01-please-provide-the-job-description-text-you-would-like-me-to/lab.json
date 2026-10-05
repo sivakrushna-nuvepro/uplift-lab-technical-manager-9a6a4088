@@ -1,0 +1,18 @@
+{
+  "taskId": 1,
+  "moduleNumber": 1,
+  "sandboxConfig": {
+    "environment": "browser-workspace",
+    "tools": [
+      {
+        "name": "Spreadsheet",
+        "purpose": "Reconcile the count sheet with the close report"
+      }
+    ],
+    "preloadFiles": [
+      "close-report.md",
+      "count-sheet.csv"
+    ]
+  },
+  "moduleHash": "mock"
+}
